@@ -14,7 +14,8 @@
         console.log(dersler);
         */
        
-        //tek satır yorum satırı
+        //tek satır yorum satırı  değişkenler var ifadesi ile tanımlanmalıdır ve js büyük küçük harfe duyarlıdır.
+        // kaçış operatörü \ kullanarak tırnak içinde tırnak kullanabiliriz.
         /*
             console.log("Js Öğreniyorum");
             a=10;
