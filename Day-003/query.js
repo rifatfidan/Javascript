@@ -16,4 +16,4 @@ function query(){
     document.querySelector("h1").style.color="#FFF";
 }
 // id  document.querySelector("#blok");
-// class  document.querySelector(".baslik");
+// class  document.querySelector(".baslik"); 
