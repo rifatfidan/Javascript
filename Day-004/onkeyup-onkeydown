@@ -1,0 +1,9 @@
+<input id="sec" type="text" placeholder="Bir tuşa basınız..." onkeyup="up()" onkeydown="down()">
+
+
+function up(){
+    document.getElementById("sec").style.backgroundColor="#336699";
+}
+function down(){
+    document.getElementById("sec").style.backgroundColor="yellowgreen";
+}
