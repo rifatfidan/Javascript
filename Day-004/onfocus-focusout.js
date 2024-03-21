@@ -6,7 +6,7 @@ function islem(x){
     x.style.background="yellowgreen";
     x.style.color="white";
 }
-
+ 
 function islem2(y){
     y.style.background="blue";
     y.style.color="black";
